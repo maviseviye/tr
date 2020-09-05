@@ -1,0 +1,262 @@
+
+                #EXTM3U
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com .NEXTBOX_CINEMA_PREMiER
+http://mhiptv.com:8888/noval/123456/3366
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com 1NTVSPOR HD
+http://46.105.233.106:8484/ntvspor.ts
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com 24 TV
+https://tv.kuzeytv.com/hls/24tv.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com 24 TV HD
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com 24 TV [HD]
+https://canli.ensonhaber.com/tr/24tv/index.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com 360 TV (720p)
+https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com 360 TV HD
+http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com 360 [HD]
+https://canli.ensonhaber.com/tr/360tv/index.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com 360 [HD]
+http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com A Spor
+https://tv.kuzeytv.com/hls/aspor.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com A2
+https://tv.kuzeytv.com/hls/a2.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com AA Live
+http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com AKIT TV HD
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com ALTAS TV
+https://broadcasttr.com:446/altastv/bant1/chunklist_w1478482566.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com ALTAS TV
+http://stream.taksimbilisim.com:1935/altastv/bant1/chunklist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com ATV HD
+http://world-ipsat.com:8080/fbmvyZlttr/E69OENR3Fz/1022
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com ATV [SD]
+http://85.132.53.55/turk/atv_turk_sd/playlist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com AV TV HD
+https://59cba4d34b678.streamlock.net/canlitv/avtv/playlist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com AV TV [SD]
+http://195.142.1.213:1935/avtv/avtv/chunklist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Akit TV
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Alanya Posta TV
+http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Anadolu RTV
+https://broadcasttr.com:446/anadolurtv/bant1/chunklist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Animal_Planet_HD
+http://mhiptv.com:8888/noval/123456/3372
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Atürk TV,alliptvlinks.com Ege Atürk TV
+https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com BEIN_BOX_OFFICE_1_HD
+http://mhiptv.com:8888/noval/123456/4481
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com BEIN_BOX_OFFICE_2_HD
+http://mhiptv.com:8888/noval/123456/4482
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com BEIN_BOX_OFFICE_3_HD
+http://mhiptv.com:8888/noval/123456/4483
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com BEIN_Gurme
+http://mhiptv.com:8888/noval/123456/4462
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com BEIN_MOVIEMAX_FESTiVAL_HD
+http://mhiptv.com:8888/noval/123456/3998
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com BEIN_MOVIES_STARS_HD
+http://mhiptv.com:8888/noval/123456/4002
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com BEIN_MOVIE_ACTION_HD
+http://mhiptv.com:8888/noval/123456/3997
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com BEIN_MOVIE_PREMIER_HD
+http://mhiptv.com:8888/noval/123456/3999
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com BEIN_MOVIE_TüRK_HD
+http://mhiptv.com:8888/noval/123456/4000
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com BEIN_SERIES_COMEDYHD
+http://mhiptv.com:8888/noval/123456/4163
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com BEIN_iz
+http://mhiptv.com:8888/noval/123456/4162
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com BENGÜTÜRK TV [HD]
+https://canli.ensonhaber.com/tr/benguturk/index.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com BEYAZ TV [HD]
+https://canli.ensonhaber.com/tr/beyaztv/index.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com BEYAZ_TV_HD
+http://mhiptv.com:8888/noval/123456/4465
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com BLOOMBERG HT [HD]
+https://canli.ensonhaber.com/tr/bloomberght/index.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com BLUTV Aksiyon (1080p)
+https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com BLUTV Komedi (1080p)
+https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Baby TV
+http://mhiptv.com:8888/noval/123456/3373
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Bayan Kurşun - Bala - 2019 - AKSİYON-GERİLİM ?
+https://srv28.filmmodu.xyz/tt5941692/720p.tr.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Belediye TV
+https://5be5d840359c6.streamlock.net/belediyelertv/belediyelertv/chunklist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Ben Bir Anneyim - 2019 - Gerilim,alliptvlinks.com ,alliptvlinks.com Bilimkurgu ?
+https://srv19.filmmodu.xyz/tt6292852/720p.tr.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Beyaz TV
+https://tv.kuzeytv.com/hls/beyaztv.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Beşiktaş Web TV
+https://s01.vpis.io/besiktas/besiktas.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Biat TV
+https://5be5d840359c6.streamlock.net/biattv/biattv/chunklist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Bodrum Belediyesi Web TV
+https://win2.yayin.com.tr/bodrumbeltv/bodrumbeltv/chunklist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Brüksel Türk TV
+http://live.arkumedia.com:1935/brukselturktv/brukselturktv/chunklist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Bursa AS TV
+https://waw2.artiyerelmedya.net/astv/bant1/chunks.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Büyük Alanya TV
+https://canliyayin.buyukalanya.com/hls/byk/buyukalanya.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com CAY TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/chunklist_w1172854629.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com CNN Türk
+https://tv.kuzeytv.com/hls/cnnturk.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Captain Marvel - 2019 - AKSİYON ?
+https://srv53.filmmodu.xyz/tt4154664/720p.tr.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com DISCOVERY_CHANNEL_HD
+http://mhiptv.com:8888/noval/123456/3358
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com DISCOVERY_IDX
+http://mhiptv.com:8888/noval/123456/3357
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com DISCOVERY_Science_HD
+http://mhiptv.com:8888/noval/123456/3359
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com DISNEY JUNIOR
+http://mhiptv.com:8888/noval/123456/3374
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com DIYALOG TV
+http://yayin3.canlitv.com:1935/live/diyalogtv/iptvdelisi.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Damar TV
+http://51.255.7.18:8080/hls/damar.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Denge - Shaft -2019 - AKSİYON-SUÇ ?
+https://srv31.filmmodu.xyz/tt4463894/720p.tr.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Deniz Haber TV
+https://s01.vpis.io/denizhaber/denizhaber.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Deniz Postası TV
+http://waw1.artiyerelmedya.net:1935/denizpostasitv/bant1/chunks.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Doğuş TV
+https://s01.vpis.io/dogustv/dogustv.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Dreamtürk
+https://tv.kuzeytv.com/hls/dreamturk.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Dünü Kurtarmak - You Yesterday - 2019 - Bilim Kurgu ?
+https://srv97.filmmodu.xyz/tt8743064/720p.tr.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com EBA TV LİSE (720p)
+https://tv-e-okul02.live.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com EBA TV İLKOKUL (720p)
+https://tv-e-okul00.live.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com ERT Şah TV Erzincan
+http://win20.yayin.com.tr/ertsahtv/ertsahtv/iptvdelisi.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com EURO D [SD]
+http://soledge7.dogannet.tv/S2/HLS_LIVE/eurod/index.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com EURO STAR,alliptvlinks.com EuroStar
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com EURO STAR (720p)
+http://xrklj56s.rocketcdn.com/eurostar.smil/chunklist_b1828000_sltur.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Elit TV
+http://source2.primetime.ch:2981/play/elittv/index.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Erzurum Web TV
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com EuroStar
+https://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com FILM_BOX_Turk
+http://mhiptv.com:8888/noval/123456/3996
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com FOX_HD
+http://mhiptv.com:8888/noval/123456/4217
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Film_BOX_Animasyon_HD
+http://mhiptv.com:8888/noval/123456/4153
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Film_BOX_Festival_HD
+http://mhiptv.com:8888/noval/123456/4155
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Film_BOX_Nostalgil
+http://mhiptv.com:8888/noval/123456/4157
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Film_BOX_Premier_HD
+http://mhiptv.com:8888/noval/123456/4154
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Film_BOX_Stars_HD
+http://mhiptv.com:8888/noval/123456/3364
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Finest TV
+http://media.finest.tv/hls/live.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Fortuna TV
+https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Fox TV
+https://tv.kuzeytv.com/hls/fox.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com GRT Gaziantep
+http://yerelmedya.tv:1935/grt/_definst_/bant1/playlist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com GS TV HD
+http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com GS TV [HD]
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Glass - 2019 - Gerilim,alliptvlinks.com ,alliptvlinks.com Gizem,alliptvlinks.com ,alliptvlinks.com Fantastik,alliptvlinks.com ,alliptvlinks.com Dram,alliptvlinks.com ,alliptvlinks.com Bilim-Kurgu,alliptvlinks.com ,alliptvlinks.com ?
+https://srv93.filmmodu.xyz/tt6823368/720p.tr.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Gonca TV
+http://stream.taksimbilisim.com:1935/tuncerciftci/smil:tuncerciftci.smil/iptvdelisi.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com HABER GLOBAL [HD]
+https://canli.ensonhaber.com/tr/haberglobal/index.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Haber 61 TV
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/iptvdelisi.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Haber Global
+https://tv.kuzeytv.com/hls/haberglobal.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Habertürk
+https://tv.kuzeytv.com/hls/haberturk.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Halk TV
+https://tv.kuzeytv.com/hls/halk.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com IBB TV
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com ICEL TV
+http://stream.taksimbilisim.com:1935/iceltv/bant1/iptvdelisi.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com IDMAN TV HD
+http://85.132.53.55/azerbaijan/idmanhd/playlist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Issız Bir Adaya Düşsen Yanına Kimi Alırdın? - 2019 - KOMEDİ-DRAM ?
+https://srv17.filmmodu.xyz/tt8976832/720p.tr.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com Istanbul TV
+http://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KANAL 15
+https://waw2.artiyerelmedya.net/kanal15/bant1/chunks.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KANAL 33
+https://59cba4d34b678.streamlock.net/canlitv/kanal33mersin/chunklist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KANAL 33 alt.
+http://stream.taksimbilisim.com:1935/kanal33/bant1/chunklist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KANAL 34 alt.
+https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/chunklist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KANAL 43
+https://59cba4d34b678.streamlock.net/canlitv/kanal43/chunklist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KANAL A ALANYA
+http://stream2.taksimbilisim.com:1935/kanala/bant1/playlist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KANAL B [SD]
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KANAL D HD
+https://soledge13.duhnet.tv//S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KANAL FIRAT
+http://yayin5.canliyayin.org:1935/live/kanalfirat/iptvdelisi.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KANAL ORDU
+https://5be5d840359c6.streamlock.net/kanalordutv/kanalordutv/chunklist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KANAL V VIP Antalya
+http://yerelmedya.tv:1935/kanalv/bant1/chunklist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KANAL Z
+https://waw2.artiyerelmedya.net/kanalz/bant1/chunks.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KAY TV
+http://yayin3.canlitv.com:1935/canlitv/kaytv/iptvdelisi.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KON TV
+https://59cba4d34b678.streamlock.net/live/kontv/chunklist.m3u8
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KR │ BABYLON TV HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/28
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KR │ GK TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/37
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KR │ HELHELOK KIDS
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/60
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KR │ JIN TV HD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/27
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KR │ K 24 HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/40
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KR │ KIRKUK TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/58
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KR │ KTV HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/42
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KR │ MEDYA HABER
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/23
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KR │ MINBIJ TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/45
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KR │ NRT HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/53
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KR │ ROJAVA TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/55
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KR │ SAHAR KURDI
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/56
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KR │ ZAGROS TV HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/48
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KR │ ÇİRA TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/25
+#EXTINF:0 tvg-country="turkey"tvg-logo=""group-title="Undefined",alliptvlinks.com KRT TV [HD]
+http://live1.krttv.com.tr/show/kr
